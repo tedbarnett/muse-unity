@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 491179cae0ea2cc49a39c110834d1f4a, type: 3}
+  m_Name: Ted_Muse_OSCMappingFile
+  m_EditorClassIdentifier: 
+  my_guid: 6139343735343462356130353534363639623532313831303338656631393637
+  IsLearning: 0
+  scrollpos: {x: 0, y: 0}
+  scrollposInspector: {x: 0, y: 0}
+  oscMappingItemList:
+  - hostObj: {fileID: 11400000}
+    address: 2f6d7573652f656567
+    min: 500
+    max: 1000
+    mappingMIN: 0
+    mappingMAX: 1
+    isLearning: 0
+    collapsed: 1
+  - hostObj: {fileID: 11400000}
+    address: 2f6d7573652f656c656d656e74732f6578706572696d656e74616c2f636f6e63656e74726174696f6e
+    min: 0
+    max: 1
+    mappingMIN: 0
+    mappingMAX: 1
+    isLearning: 0
+    collapsed: 1
+  - hostObj: {fileID: 11400000}
+    address: 2f6d7573652f656c656d656e74732f6578706572696d656e74616c2f6d656c6c6f77
+    min: 0
+    max: 1
+    mappingMIN: 0
+    mappingMAX: 1
+    isLearning: 0
+    collapsed: 1
+  - hostObj: {fileID: 11400000}
+    address: 2f6d7573652f656c656d656e74732f64656c74615f72656c6174697665
+    min: 0
+    max: 1
+    mappingMIN: 0
+    mappingMAX: 1
+    isLearning: 0
+    collapsed: 0
+  - hostObj: {fileID: 11400000}
+    address: 2f6d7573652f656c656d656e74732f74686574615f72656c6174697665
+    min: 0
+    max: 1
+    mappingMIN: 0
+    mappingMAX: 1
+    isLearning: 0
+    collapsed: 0
+  - hostObj: {fileID: 11400000}
+    address: 2f6d7573652f656c656d656e74732f616c7068615f72656c6174697665
+    min: 0
+    max: 1
+    mappingMIN: 0
+    mappingMAX: 1
+    isLearning: 0
+    collapsed: 0
+  - hostObj: {fileID: 11400000}
+    address: 2f6d7573652f656c656d656e74732f626574615f72656c6174697665
+    min: 0
+    max: 1
+    mappingMIN: 0
+    mappingMAX: 1
+    isLearning: 0
+    collapsed: 0
+  - hostObj: {fileID: 11400000}
+    address: 2f6d7573652f656c656d656e74732f67616d6d615f72656c6174697665
+    min: 0
+    max: 1
+    mappingMIN: 0
+    mappingMAX: 1
+    isLearning: 0
+    collapsed: 0

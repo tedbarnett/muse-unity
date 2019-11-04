@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SNAP IT SDF - Underlay
+  m_Shader: {fileID: 4800000, guid: dca26082f9cb439469295791d9f76fe5, type: 3}
+  m_ShaderKeywords:
+  - BEVEL_ON
+  - UNDERLAY_ON
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 638b93209fec5e847bd41a381c67efb7, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _FaceTex
+        second:
+          m_Texture: {fileID: 2800000, guid: c216d720bc98346449ccbb50c47e75c5, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _OutlineTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 74d8c208a0193e14ca6916bea88a2c52, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _FaceDilate
+        second: 0
+      data:
+        first:
+          name: _UnderlayOffsetX
+        second: 1
+      data:
+        first:
+          name: _UnderlayOffsetY
+        second: -1
+      data:
+        first:
+          name: _UnderlayDilate
+        second: 0
+      data:
+        first:
+          name: _UnderlaySoftness
+        second: .266000003
+      data:
+        first:
+          name: _WeightNormal
+        second: 0
+      data:
+        first:
+          name: _WeightBold
+        second: .75
+      data:
+        first:
+          name: _OutlineWidth
+        second: .30399999
+      data:
+        first:
+          name: _OutlineSoftness
+        second: 0
+      data:
+        first:
+          name: _GradientScale
+        second: 9
+      data:
+        first:
+          name: _ScaleX
+        second: 1
+      data:
+        first:
+          name: _ScaleY
+        second: 1
+      data:
+        first:
+          name: _PerspectiveFilter
+        second: .875
+      data:
+        first:
+          name: _TextureWidth
+        second: 1024
+      data:
+        first:
+          name: _TextureHeight
+        second: 1024
+      data:
+        first:
+          name: _Bevel
+        second: 1
+      data:
+        first:
+          name: _GlowOffset
+        second: 0
+      data:
+        first:
+          name: _GlowPower
+        second: .75
+      data:
+        first:
+          name: _GlowOuter
+        second: .0500000007
+      data:
+        first:
+          name: _LightAngle
+        second: 3.14199996
+      data:
+        first:
+          name: _MaskSoftnessX
+        second: 0
+      data:
+        first:
+          name: _MaskSoftnessY
+        second: 0
+      data:
+        first:
+          name: _VertexOffsetX
+        second: 0
+      data:
+        first:
+          name: _VertexOffsetY
+        second: 0
+      data:
+        first:
+          name: _ShaderFlags
+        second: 1
+      data:
+        first:
+          name: _ScaleRatioA
+        second: .888888896
+      data:
+        first:
+          name: _ScaleRatioB
+        second: .888888896
+      data:
+        first:
+          name: _ScaleRatioC
+        second: .70212388
+      data:
+        first:
+          name: _BevelOffset
+        second: 0
+      data:
+        first:
+          name: _BevelWidth
+        second: .136999995
+      data:
+        first:
+          name: _BevelClamp
+        second: 0
+      data:
+        first:
+          name: _BevelRoundness
+        second: 1
+      data:
+        first:
+          name: _SpecularPower
+        second: 1.27999997
+      data:
+        first:
+          name: _Reflectivity
+        second: 15
+      data:
+        first:
+          name: _Diffuse
+        second: .5
+      data:
+        first:
+          name: _Ambient
+        second: 0
+      data:
+        first:
+          name: _BumpOutline
+        second: 0
+      data:
+        first:
+          name: _BumpFace
+        second: 0
+      data:
+        first:
+          name: _EnvTiltX
+        second: 0
+      data:
+        first:
+          name: _EnvTiltY
+        second: 0
+      data:
+        first:
+          name: _GlowInner
+        second: .0500000007
+    m_Colors:
+      data:
+        first:
+          name: _FaceColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _OutlineColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _GlowColor
+        second: {r: 0, g: 1, b: 0, a: .5}
+      data:
+        first:
+          name: _MaskCoord
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _SpecularColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _UnderlayColor
+        second: {r: 0, g: 0, b: 0, a: 1}

@@ -1,0 +1,14 @@
+Thank you for purchasing the ETeeski Level Texture Pack!
+
+
+This packacge includes 100 textures. Every texture is in .jpg format and has a resolution of 2048 x 2048.
+
+These textures are organized into four groups: industrial, inerior, nature, and war zone. Each texture is uniquly named with a few words to describe the texture. For every texture, there is a material with the same name. The textures and materials of each category are organized into a "textures" folder and a "materials" folder.
+
+Some of these texture use the "general reflection cubemap". This cubemap and texture are shared between multiple materials.
+
+These textures were made from digital photographs.
+
+Three of these textures are piles of leaves and require the Transparent Cut-Out Diffuse shader. The texture file for these are in .png. Typically you would want to use these textures by applying them to a 2d plane and placing that plane slightly above the ground or other surface.
+
+More information can be found at http://www.youtube.com/ETeeskiTutorials and http://www.ETeeskiTutorials.com

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4580d00bdf0080c4db95a21835b1f446, type: 3}
+  m_Name: OSCSessionFile
+  m_EditorClassIdentifier: 
+  my_guid: 3662616665386130393465353734653833626161383133326539366138626432
+  IsLearning: 0
+  scrollpos: {x: 0, y: 0}
+  scrollposInspector: {x: 0, y: 0}
+  oscSessionItemList:
+  - hostObj: {fileID: 11400000}
+    address: 2f6d7573652f656567
+    data: []
+    dataTypeList: []
+    isLearning: 0
+    collapsed: 1

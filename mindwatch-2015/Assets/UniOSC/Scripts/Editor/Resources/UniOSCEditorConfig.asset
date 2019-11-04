@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 961104b366b3ea3438284ace89d20242, type: 3}
+  m_Name: UniOSCEditorConfig
+  m_EditorClassIdentifier: 
+  selectedMappingFileObjIndex: 0
+  selectedSessionFileObjIndex: 0
+  configTraceScrollpos: {x: 0, y: 0}
+  isOSCTracing: 1
+  isOSCLearning: 0
+  isEditorEnabled: 0
+  isLastMessageTracing: 0
+  mySkin: {fileID: 0}
+  learnStyle:
+    m_Name: 
+    m_Normal:
+      m_Background: {fileID: 2800000, guid: f1ed84d0bc146974cb640799ad2714d9, type: 3}
+      m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+    m_Hover:
+      m_Background: {fileID: 0}
+      m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+    m_Active:
+      m_Background: {fileID: 0}
+      m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+    m_Focused:
+      m_Background: {fileID: 0}
+      m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+    m_OnNormal:
+      m_Background: {fileID: 0}
+      m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+    m_OnHover:
+      m_Background: {fileID: 0}
+      m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+    m_OnActive:
+      m_Background: {fileID: 0}
+      m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+    m_OnFocused:
+      m_Background: {fileID: 0}
+      m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+    m_Border:
+      m_Left: 7
+      m_Right: 7
+      m_Top: 7
+      m_Bottom: 7
+    m_Margin:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Padding:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Overflow:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Font: {fileID: 0}
+    m_FontSize: 0
+    m_FontStyle: 0
+    m_Alignment: 0
+    m_WordWrap: 0
+    m_RichText: 1
+    m_TextClipping: 0
+    m_ImagePosition: 0
+    m_ContentOffset: {x: 0, y: 0}
+    m_FixedWidth: 0
+    m_FixedHeight: 0
+    m_StretchWidth: 1
+    m_StretchHeight: 0
+  OSCMappingFileObjList: []
+  OSCSessionFileObjList: []
+  toolbarInt: 0
+  tex_LearnFrame: {fileID: 2800000, guid: f1ed84d0bc146974cb640799ad2714d9, type: 3}
+  tex_logo: {fileID: 2800000, guid: b848a5f32db88c24babd192ec2f359c9, type: 3}
